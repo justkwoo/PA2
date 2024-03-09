@@ -109,3 +109,4 @@ template <template <class T> class OrderingStructure> animation filler::Fill(Fil
 
 	return anim;
 }
+
